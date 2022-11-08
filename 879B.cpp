@@ -36,7 +36,7 @@ int main(){
         }
         else {
            a.push_back(temp);
-           count =0; 
+           count =1; 
         }
     }
 }
